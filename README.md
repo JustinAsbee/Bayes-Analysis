@@ -2,7 +2,6 @@
 
 Project was created using R version 4.1.0 (2021-05-18)
 Code was last updated 5/2/22
-Please use the citation file to cite this code
 
 Within the file you may use find and replace for the variables you will be using in your analysis
   Replace outcome with your outcome or dependent variable
